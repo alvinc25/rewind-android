@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rewind</string>
+    <string name="digest_channel_name">Weekly digest</string>
+    <string name="digest_channel_description">A Sunday evening summary of your week</string>
+</resources>

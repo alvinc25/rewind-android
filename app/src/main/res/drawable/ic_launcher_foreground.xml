@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Seven bars of a week, the middle one highlighted. 108dp adaptive canvas, art inside the 66dp safe zone. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:fillColor="#9FC3EA" android:pathData="M30,60h4v14h-4z" />
+    <path android:fillColor="#9FC3EA" android:pathData="M37,52h4v22h-4z" />
+    <path android:fillColor="#9FC3EA" android:pathData="M44,56h4v18h-4z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M51,36h6v38h-6z" />
+    <path android:fillColor="#9FC3EA" android:pathData="M60,48h4v26h-4z" />
+    <path android:fillColor="#9FC3EA" android:pathData="M67,58h4v16h-4z" />
+    <path android:fillColor="#9FC3EA" android:pathData="M74,54h4v20h-4z" />
+</vector>
