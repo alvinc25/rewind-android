@@ -18,12 +18,11 @@ Everything is computed and stored on the device. The app doesn't even request th
 | **Min / target SDK** | 29 / 35 |
 | **Try it without granting anything** | "Explore with sample data" on the first screen |
 
-<!--
 Screenshots:
 | Onboarding | Report | Where your time went | Apps that came and went |
 |---|---|---|---|
 | <img src="docs/screenshots/01-onboarding.png" width="200"/> | <img src="docs/screenshots/02-report-top.png" width="200"/> | <img src="docs/screenshots/03-report-apps.png" width="200"/> | <img src="docs/screenshots/04-report-bottom.png" width="200"/> |
--->
+
 
 ## 1. Assumptions
 
